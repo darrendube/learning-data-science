@@ -1,3 +1,3 @@
-# datascience
+# Learning Data Science
 
-A collection of Jupyter Notebooks where I explore python data and ML libraries
+A collection of Jupyter Notebooks where I explore python ML libraries
